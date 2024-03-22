@@ -1,10 +1,8 @@
-# presentacion-
+# MIRAS, LAUTARO
++ En mi tiempo libre soy ajedrecista (1837 FIDE).
+- Mi expectativa es ser un excelente profesional.
+- Tengo un amor-odio por las matematicas.
+- Tengo 2 perros.
+- La última pelicula que vi fue Bob Esponja.
+> La grandeza del hombre está en ser un puente y no una meta: lo que en el hombre se puede amar es un tránsito y un ocaso -Friedrich Nietzsche
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
